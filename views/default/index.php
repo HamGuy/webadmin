@@ -3,7 +3,7 @@
         <h3>管理后台首页</h3>
     </div>
     <div class="bd">
-        <h4>通用网站后台管理系统(php版)</h4>
+        <h4>微信公众平台数据管理系统</h4>
         <p>版本：1.1</p>
         <p>开发者：<a href="http://service.oncecode.com" target="_blank">仁安网络工作室</a></p>
         <p>技术支持：<a href="http://2sitebbs.com" target="_blank">建站学习论坛</a></p>
