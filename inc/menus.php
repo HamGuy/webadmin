@@ -12,15 +12,15 @@ $extendArr = array('selected' => 'on', 'on' => '收起', 'off' => '展开');
 $menus = array(
     'group_1' => array(
         'groupClass' => 'pages',
-        'title' => '表单和表格demo',
+        'title' => '自动回复资料管理',
         'selected' => true,
         'items' => array(
-            array('page' => 'demo', 'text' => '模块demo', 'url' => 'demo.php'),
+            array('page' => 'demo', 'text' => '添加新的自动回复', 'url' => 'demo.php'),
         ),
     ),
     'group_2' => array(
         'groupClass' => 'media',
-        'title' => '自定义管理功能 1',
+        'title' => '自定义菜单管理',
         'selected' => true,
         'items' => array(
             array('page' => 'group2_item1', 'text' => '功能 1', 'url' => 'user_list.php'),
@@ -30,7 +30,7 @@ $menus = array(
     ),
     'group_3' => array(
         'groupClass' => 'comments',
-        'title' => '自定义管理功能 2',
+        'title' => '订阅用户管理',
         'selected' => true,
         'items' => array(
             array('page' => 'group3_item1', 'text' => '功能 1', 'url' => 'user_list.php'),
